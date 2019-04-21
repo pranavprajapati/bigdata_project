@@ -1,4 +1,4 @@
-# bigdata_project
+# House Prices, prediction and forecasting
 
 README SLACK UPDATE
 test 3
